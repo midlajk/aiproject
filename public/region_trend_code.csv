@@ -1,0 +1,251 @@
+name,values,code3,id
+Angola,100,AGO,AO
+Uganda,59,UGA,UG
+South Africa,54,ZAF,ZA
+El Salvador,52,SLV,SV
+Portugal,51,PRT,PT
+Canada,50,CAN,CA
+Singapore,42,SGP,SG
+Ghana,41,GHA,GH
+Nepal,41,NPL,NP
+Philippines,40,PHL,PH
+Panama,35,PAN,PA
+Peru,35,PER,PE
+Paraguay,35,PRY,PY
+Qatar,35,QAT,QA
+Malaysia,34,MYS,MY
+Bolivia,32,Unknown code,Unknown code
+Nigeria,32,NGA,NG
+New Zealand,31,NZL,NZ
+Ireland,30,IRL,IE
+India,30,IND,IN
+United States,30,USA,US
+Ecuador,30,ECU,EC
+United Arab Emirates,29,ARE,AE
+Bangladesh,28,BGD,BD
+Guatemala,28,GTM,GT
+Kenya,28,KEN,KE
+Costa Rica,26,CRI,CR
+Dominican Republic,26,DOM,DO
+Colombia,25,COL,CO
+Uruguay,24,URY,UY
+Mexico,24,MEX,MX
+Brazil,23,BRA,BR
+Pakistan,20,PAK,PK
+Indonesia,20,IDN,ID
+Australia,20,AUS,AU
+Venezuela,20,Unknown code,Unknown code
+Chile,20,CHL,CL
+Romania,19,ROU,RO
+Argentina,19,ARG,AR
+United Kingdom,19,GBR,GB
+Saudi Arabia,19,SAU,SA
+Hong Kong,18,HKG,HK
+Spain,17,ESP,ES
+France,17,FRA,FR
+Belgium,15,BEL,BE
+Switzerland,14,CHE,CH
+Greece,14,GRC,GR
+Italy,14,ITA,IT
+Morocco,13,MAR,MA
+Norway,13,NOR,NO
+Vietnam,13,Unknown code,Unknown code
+Sweden,13,SWE,SE
+Austria,13,AUT,AT
+Denmark,12,DNK,DK
+Poland,10,POL,PL
+Germany,10,DEU,DE
+Thailand,10,THA,TH
+Netherlands,10,NLD,NL
+Ukraine,9,UKR,UA
+Czechia,9,CZE,CZ
+Belarus,9,BLR,BY
+Turkey,9,TUR,TR
+Finland,8,FIN,FI
+Israel,7,ISR,IL
+Egypt,7,EGY,EG
+Hungary,6,HUN,HU
+Russia,6,Unknown code,Unknown code
+Iran,4,Unknown code,Unknown code
+Japan,4,JPN,JP
+South Korea,4,Unknown code,Unknown code
+Taiwan,4,Unknown code,Unknown code
+Pitcairn Islands,0,Unknown code,Unknown code
+Puerto Rico,0,PRI,PR
+Afghanistan,0,AFG,AF
+Papua New Guinea,0,PNG,PG
+Nicaragua,0,NIC,NI
+Montenegro,0,MNE,ME
+Montserrat,0,MSR,MS
+Mozambique,0,MOZ,MZ
+Myanmar (Burma),0,Unknown code,Unknown code
+Namibia,0,NAM,NA
+Nauru,0,NRU,NR
+New Caledonia,0,NCL,NC
+Niger,0,NER,NE
+Palestine,0,Unknown code,Unknown code
+Niue,0,NIU,NU
+Norfolk Island,0,NFK,NF
+North Korea,0,Unknown code,Unknown code
+North Macedonia,0,MKD,MK
+Northern Mariana Islands,0,MNP,MP
+Rwanda,0,RWA,RW
+Palau,0,PLW,PW
+Oman,0,OMN,OM
+South Georgia & South Sandwich Islands,0,Unknown code,Unknown code
+Réunion,0,REU,RE
+Syria,0,Unknown code,Unknown code
+Tajikistan,0,TJK,TJ
+Tanzania,0,Unknown code,Unknown code
+Timor-Leste,0,TLS,TL
+Togo,0,TGO,TG
+Tokelau,0,TKL,TK
+Tonga,0,TON,TO
+Trinidad & Tobago,0,Unknown code,Unknown code
+Tunisia,0,TUN,TN
+Turkmenistan,0,TKM,TM
+Turks & Caicos Islands,0,Unknown code,Unknown code
+Tuvalu,0,TUV,TV
+U.S. Outlying Islands,0,Unknown code,Unknown code
+U.S. Virgin Islands,0,Unknown code,Unknown code
+Uzbekistan,0,UZB,UZ
+Vanuatu,0,VUT,VU
+Vatican City,0,Unknown code,Unknown code
+Wallis & Futuna,0,Unknown code,Unknown code
+Western Sahara,0,ESH,EH
+Yemen,0,YEM,YE
+Zambia,0,ZMB,ZM
+Zimbabwe,0,ZWE,ZW
+São Tomé & Príncipe,0,Unknown code,Unknown code
+Svalbard & Jan Mayen,0,Unknown code,Unknown code
+Samoa,0,WSM,WS
+Suriname,0,SUR,SR
+San Marino,0,SMR,SM
+Senegal,0,SEN,SN
+Serbia,0,SRB,RS
+Seychelles,0,SYC,SC
+Sierra Leone,0,SLE,SL
+Sint Maarten,0,Unknown code,Unknown code
+Slovakia,0,SVK,SK
+Slovenia,0,SVN,SI
+Solomon Islands,0,SLB,SB
+Somalia,0,SOM,SO
+Monaco,0,MCO,MC
+South Sudan,0,SSD,SS
+Sri Lanka,0,LKA,LK
+St. Barthélemy,0,Unknown code,Unknown code
+St. Helena,0,Unknown code,Unknown code
+St. Kitts & Nevis,0,Unknown code,Unknown code
+St. Lucia,0,Unknown code,Unknown code
+St. Martin,0,Unknown code,Unknown code
+St. Pierre & Miquelon,0,Unknown code,Unknown code
+St. Vincent & Grenadines,0,Unknown code,Unknown code
+Sudan,0,SDN,SD
+Mongolia,0,MNG,MN
+Libya,0,LBY,LY
+Moldova,0,Unknown code,Unknown code
+Cambodia,0,KHM,KH
+Cape Verde,0,Unknown code,Unknown code
+Caribbean Netherlands,0,Unknown code,Unknown code
+Cayman Islands,0,CYM,KY
+Central African Republic,0,CAF,CF
+Chad,0,TCD,TD
+China,0,CHN,CN
+Christmas Island,0,CXR,CX
+Cocos (Keeling) Islands,0,CCK,CC
+Comoros,0,COM,KM
+Congo - Brazzaville,0,Unknown code,Unknown code
+Congo - Kinshasa,0,Unknown code,Unknown code
+Cook Islands,0,COK,CK
+Croatia,0,HRV,HR
+Cuba,0,CUB,CU
+Curaçao,0,CUW,CW
+Cyprus,0,CYP,CY
+Côte d’Ivoire,0,Unknown code,Unknown code
+Djibouti,0,DJI,DJ
+Dominica,0,DMA,DM
+Equatorial Guinea,0,GNQ,GQ
+Eritrea,0,ERI,ER
+Estonia,0,EST,EE
+Eswatini,0,SWZ,SZ
+Cameroon,0,CMR,CM
+Burundi,0,BDI,BI
+Micronesia,0,Unknown code,Unknown code
+Burkina Faso,0,BFA,BF
+Algeria,0,DZA,DZ
+American Samoa,0,ASM,AS
+Andorra,0,AND,AD
+Anguilla,0,AIA,AI
+Antarctica,0,ATA,AQ
+Antigua & Barbuda,0,Unknown code,Unknown code
+Armenia,0,ARM,AM
+Aruba,0,ABW,AW
+Azerbaijan,0,AZE,AZ
+Bahamas,0,BHS,BS
+Bahrain,0,BHR,BH
+Barbados,0,BRB,BB
+Belize,0,BLZ,BZ
+Benin,0,BEN,BJ
+Bermuda,0,BMU,BM
+Bhutan,0,BTN,BT
+Bosnia & Herzegovina,0,Unknown code,Unknown code
+Botswana,0,BWA,BW
+Bouvet Island,0,BVT,BV
+British Indian Ocean Territory,0,IOT,IO
+British Virgin Islands,0,Unknown code,Unknown code
+Brunei,0,Unknown code,Unknown code
+Bulgaria,0,BGR,BG
+Ethiopia,0,ETH,ET
+Falkland Islands (Islas Malvinas),0,Unknown code,Unknown code
+Faroe Islands,0,FRO,FO
+Fiji,0,FJI,FJ
+Kosovo,0,Unknown code,Unknown code
+Kuwait,0,KWT,KW
+Kyrgyzstan,0,KGZ,KG
+Laos,0,Unknown code,Unknown code
+Latvia,0,LVA,LV
+Lebanon,0,LBN,LB
+Lesotho,0,LSO,LS
+Liberia,0,LBR,LR
+Albania,0,ALB,AL
+Liechtenstein,0,LIE,LI
+Lithuania,0,LTU,LT
+Luxembourg,0,LUX,LU
+Macao,0,MAC,MO
+Madagascar,0,MDG,MG
+Malawi,0,MWI,MW
+Maldives,0,MDV,MV
+Mali,0,MLI,ML
+Malta,0,MLT,MT
+Marshall Islands,0,MHL,MH
+Martinique,0,MTQ,MQ
+Mauritania,0,MRT,MR
+Mauritius,0,MUS,MU
+Mayotte,0,MYT,YT
+Kiribati,0,KIR,KI
+Kazakhstan,0,KAZ,KZ
+Jordan,0,JOR,JO
+Guam,0,GUM,GU
+French Guiana,0,GUF,GF
+French Polynesia,0,PYF,PF
+French Southern Territories,0,ATF,TF
+Gabon,0,GAB,GA
+Gambia,0,GMB,GM
+Georgia,0,GEO,GE
+Gibraltar,0,GIB,GI
+Greenland,0,GRL,GL
+Grenada,0,GRD,GD
+Guadeloupe,0,GLP,GP
+Guernsey,0,GGY,GG
+Jersey,0,JEY,JE
+Guinea,0,GIN,GN
+Guinea-Bissau,0,GNB,GW
+Guyana,0,GUY,GY
+Haiti,0,HTI,HT
+Heard & McDonald Islands,0,Unknown code,Unknown code
+Honduras,0,HND,HN
+Iceland,0,ISL,IS
+Iraq,0,IRQ,IQ
+Isle of Man,0,IMN,IM
+Jamaica,0,JAM,JM
+Åland Islands,0,ALA,AX
